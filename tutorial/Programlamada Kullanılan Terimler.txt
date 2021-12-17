@@ -1,0 +1,161 @@
+proccess
+analysis
+execution
+storage
+manipulate
+implemented
+adress
+measuring
+debugging
+data compressions = veri sıkıştırma
+instruction
+fetch decode execute
+controller
+port
+specification
+syntax
+semantics
+compiler
+parmanenet
+instruction
+due to security
+command
+interprets
+Presentation of the algorithm 
+Pseudo Code = Sözde Kod
+Flowcards =Akış şemaları
+Hardware = Donanım
+Software = Yazılım 
+Compiler = Derleyici
+Interpreter = Yorumlayıcı
+Exacutable File = Çalıştırılabilir dosya
+Assembly = Alt seviyeli diller
+IDLE = Integrated Development Environment-Entegre
+Garbage Collector 
+Escape : Çıkış
+Constant = Sabit
+Variable : Değişken
+Branching : Şartlı dallanma
+Indentation = Girinti mekanizması
+Loops = Döngü
+Regular Expressions : Düzenli ifadeler
+Return = Döndür
+Pass = Geç
+Filter = Filtre
+Random = Rastgele
+Recursive Functions = Özyinelemi fonksiyon
+Ceil = Tavan
+Square Root = Kare kök
+Capitalize
+Count
+Reverse : Tersine çevirmek
+Lower
+Upper
+Replace : Yerine koymak
+Split : Bölünmüş
+Swapcase
+Title
+Data Structures : Veri Yapıları
+List
+Sets
+Dict
+Tuple
+Stack
+Queue
+İmmatuble : Değişmez
+Matuble
+Append
+Recursion : Özyineleme
+Recursive : Yenilemeli
+Set default : Varsayılana ayarla
+iter : Tekrar
+Clear
+Values : Değerler
+Extend : Uzatmak
+Remove : Kaldırmak
+insert : Eklemek
+Sort
+Count
+Floor
+Add
+Update
+Center
+Endswith
+Startswith
+İntersection
+Diffirance
+Symmetric diffirance
+Indentation= Girinti mekanizması
+Object Oriented Programming
+Inheritance = Kalıtım
+Encapsulation  = Sarmalama
+Abstract Class = Soyut sınıf
+Polymorphism = Çok biçimcilik
+instantiation = Örnekleme
+Constructors = Yapıcı
+Destructors = Yıkıcı
+garbage collector = Çöp toplayıcı
+inheritance
+Encapsulation 
+Abstract Class
+Polymorphism
+instantiation
+attributes
+Constructors
+Destructors
+garbage collector
+Decorators     
+overriding
+Data Hiding
+Exceptions = İstisnalar
+Exception Handling =Hata yakalama, istisna işleme
+Logical Errors = Mantıksal Hatalar
+Syntax Errors = Kod yazım hataları
+exceptions handling = hata yakalama
+User-Defiend Exceptions
+Errors 
+Graphical User Interface=Görsel arayüz
+Frame = Çerceve
+Labelframe = Etiketli çerceve
+Label = Etiket
+Button = Buton tuşu
+Checkbutton = 
+Text = Metin
+Separator = Ayırıcı
+Entry = Girdi
+Combobox = Açılır liste kutusu 
+Radiobutton
+Listbox = Liste kutusu
+Scrollbar = Kaydırma Çubuğu
+Progressbar = İlerleme Çubuğu
+Menu
+Optionmenu = Seçim menüsü
+PanedWindow = Bölmeli Pencere
+Spinbox = döndürme kutusu
+Scale = Ölçek
+PhotoImage
+Canvas = Tuval
+Graphical User Interface
+Event = Olay
+Layout = Yerleşim
+Side = Yan Taraf Yön
+Fill = Doldurmak
+Expand = Genişletmek
+Row = Satır
+Column = Sütun
+Sticky
+Configure = Yapılandır
+fill=doldurmak
+expand= genişletmek
+select = seç
+Distinct = Farklı
+Order = Düzen
+dsc = Azalan
+Insert = Ekle
+Into = içine
+Drop = Düşürmek
+Alter = değiştir
+exists = Var
+Structured Query Language = Yapısal Sorgulama Dili
+array = dizi
+DataFrame
